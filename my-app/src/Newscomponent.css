@@ -1,0 +1,9 @@
+.card{
+   
+    border-radius:5px;
+    margin-top:20px;
+}
+
+.card-img-top{
+    height:155px;
+}

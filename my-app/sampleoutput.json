@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Cade Metz, Marc Santora, Cora Engelbrecht",
+      "title": "Nobel Prize in Physics Honors Work on Climate Change - The New York Times",
+      "description": "The work of Syukuro Manabe, Klaus Hasselmann and Giorgio Parisi “demonstrate that our knowledge about the climate rests on a solid scientific foundation,” the committee said.",
+      "url": "https://www.nytimes.com/2021/10/05/science/nobel-prize-physics-manabe-klaus-parisi.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/05/world/05nobel-03/05nobel-03-facebookJumbo.jpg",
+      "publishedAt": "2021-10-05T16:04:31Z",
+      "content": "In August, the Intergovernmental Panel on Climate Change, or IPCC, a body of scientists convened by the United Nations, released a report showing that the nations of the world can no longer stop glob… [+1624 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Lucas Tomlinson",
+      "title": "Pentagon requires COVID-19 vaccinations for civilian employees by Nov. 22 - Fox News",
+      "description": "The Pentagon is requiring that all civilian employees be fully vaccinated against COVID-19 by Nov. 22 – a move affecting more than 700,000 individuals.",
+      "url": "https://www.foxnews.com/politics/pentagon-requires-civilian-employees-fully-vaccinated-covid-19-nov-22",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Pentagon.jpg",
+      "publishedAt": "2021-10-05T15:44:59Z",
+      "content": "The Pentagon is requiring that all civilian employees be fully vaccinated against COVID-19 by Nov. 22 a move affecting more than 700,000 individuals.\r\nThe Pentagon had previously ordered all 1.3 mill… [+3043 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WGN TV Chicago" },
+      "author": "Mahsa Saeidi, Nexstar Media Wire",
+      "title": "Listen: 911 call from man who says he spoke to Brian Laundrie along Appalachian Trail - WGN TV Chicago",
+      "description": "It’s been nearly three weeks now since Gabby Petito’s fiancé Brian Laundrie was allegedly last seen leaving home to go hiking in the Carlton Reserve in Sarasota County.",
+      "url": "https://wgntv.com/news/listen-911-call-from-man-who-says-he-spoke-to-brian-laundrie-along-appalachian-trail/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2021/10/PHONE-1.jpg?w=1280",
+      "publishedAt": "2021-10-05T15:44:54Z",
+      "content": "TAMPA, Fla. (WFLA) It’s been nearly three weeks since Gabby Petito’s fiancé Brian Laundrie was reportedly last seen leaving home to go hiking in the Carlton Reserve in Sarasota County, Florida.\r\nLaw … [+2480 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Jaguars Owner Shahid Khan Rips Urban Meyer Over Bar Antics, 'Inexcusable' - TMZ",
+      "description": "Jaguars owner Shahid Khan is clearly furious with Urban Meyer for his bar antics over the weekend ... calling the head coach's actions \"inexcusable.\"",
+      "url": "https://www.tmz.com/2021/10/05/shad-khan-urban-meyer-jacksonville-jaguars-bar-inexcusable/",
+      "urlToImage": "https://imagez.tmz.com/image/f3/16by9/2021/10/05/f30f652f3edf4bc4965adf5267fc4071_xl.jpg",
+      "publishedAt": "2021-10-05T15:37:00Z",
+      "content": "Jaguars owner Shahid Khan is clearly furious with Urban Meyerfor his bar antics over the weekend ... calling the head coach's actions \"inexcusable.\"\r\nJust 1 day after Meyer apologized after video sur… [+953 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Whitney Wild, CNN",
+      "title": "Capitol Police take a suspect into custody from a 'suspicious vehicle' in front of the Supreme Court - CNN",
+      "description": "US Capitol Police on Tuesday took into custody a suspect from a \"suspicious vehicle\" parked near the Supreme Court after giving the person commands and using a flash bang device.",
+      "url": "https://www.cnn.com/2021/10/05/politics/capitol-police-suspicious-vehicle/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211005111316-suspicious-vehicle-supreme-court-1005-super-tease.jpg",
+      "publishedAt": "2021-10-05T15:32:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Katie Archer",
+      "title": "'Game of Thrones' prequel 'House of the Dragon' releases first trailer - Yahoo Entertainment",
+      "description": "The long-awaited spin-off show is finally on the horizon.",
+      "url": "https://www.yahoo.com/entertainment/house-of-the-dragon-trailer-game-of-thrones-prequel-152431879.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/1ebd2810-25c9-11ec-9d7f-5639b5455d4b",
+      "publishedAt": "2021-10-05T15:24:31Z",
+      "content": "Game of Thrones fans have finally got a first look at the much-anticipated prequel series House of the Dragon with its first teaser trailer voiced by Matt Smith.\r\nThe HBO Max series is set 200 years … [+1362 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "William K. Rashbaum, Michael Gold",
+      "title": "F.B.I. Raids Sergeants Benevolent Association Headquarters - The New York Times",
+      "description": "Investigators also executed a search warrant at the home of the union’s president, a person familiar with the matter said.",
+      "url": "https://www.nytimes.com/2021/10/05/nyregion/fbi-raid-sergeants-benevolent-association-nypd.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/05/nyregion/05sba-raid/05sba-raid-facebookJumbo.jpg",
+      "publishedAt": "2021-10-05T15:24:24Z",
+      "content": "An F.B.I. spokesman said only that agents were conducting a law enforcement operation pursuant to an ongoing investigation at the unions offices in Lower Manhattan.\r\nAt least four federal agents were… [+871 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nora Naughton, Dave Sebastian",
+      "title": "Hertz Names Former Ford CEO as Interim Chief - The Wall Street Journal",
+      "description": "Mark Fields to take top job as car-rental company resets after emerging from bankruptcy",
+      "url": "https://www.wsj.com/articles/hertz-names-former-ford-ceo-as-interim-chief-11633442770",
+      "urlToImage": "https://images.wsj.net/im-411598/social",
+      "publishedAt": "2021-10-05T15:24:00Z",
+      "content": "Hertz Global Holdings Inc.\r\n HTZZ 10.12%\r\ntapped former\r\nFord Motor Co.\r\nCEO\r\nMark Fields\r\nas its interim chief executive and moved Chief Executive\r\nPaul Stone\r\nto the role of president and chief ope… [+3766 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Natasha Turak",
+      "title": "The UAE announces its next space mission: Venus and an asteroid landing - CNBC",
+      "description": "The mission will be developed with the University of Colorado's Laboratory for Atmospheric and Space Physics and is set to be a 3.6-billion-kilometer journey.",
+      "url": "https://www.cnbc.com/2021/10/05/uae-announces-its-next-space-mission-venus-and-an-asteroid-landing.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106623373-1595245678689-GettyImages-1227692903.jpg?v=1612883585",
+      "publishedAt": "2021-10-05T15:11:07Z",
+      "content": "DUBAI, United Arab Emirates The United Arab Emirates on Tuesday announced plans to explore the planet Venus before the end of the coming decade and land on an asteroid, outlining its new ambitions mo… [+2436 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Keira Wingate, USA TODAY",
+      "title": "Mosquitoes test positive for potentially deadly EEE virus in Connecticut - Yahoo News",
+      "description": "Mosquitoes trapped in a forest in Connecticut test positive for eastern equine encephalitis, a potentially deadly virus that has no cure.",
+      "url": "https://www.usatoday.com/story/news/nation/2021/10/05/mosquitoes-connecticut-test-positive-deadly-eee-virus/6001608001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/09/16/USAT/fea4dbc1-b888-4b04-a315-26f15c7ad4e8-VPC_EEE_VIRUS_MOSQUITOS_2020_wide_cdc_getty.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2021-10-05T15:10:18Z",
+      "content": "Connecticut health officials are cautioning southeastern area state residents after the potentially deadly mosquito-borne eastern equine encephalitis (EEE) virus was detected for the first time this … [+3044 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN India" },
+      "author": null,
+      "title": "J.D. Martinez won't play for Boston Red Sox in American League Wild Card Game - ESPN India",
+      "description": "J.D. Martinez, who injured his ankle when he tripped over the second-base bag while jogging out to right field Sunday, is not on Boston's roster for the American League Wild Card Game vs. the Yankees.",
+      "url": "https://www.espn.in/mlb/story/_/id/32342668/jd-martinez-play-boston-red-sox-american-league-wild-card-game",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F1104%2Fr623189_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-05T15:05:08Z",
+      "content": "Boston Red Sox slugger J.D. Martinez has been left off the playoff roster for the American League Wild Card Game against the visiting New York Yankees on Tuesday night at Fenway Park as he continues … [+1736 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Lexi Lonas",
+      "title": "Trump falls off Forbes list of America's richest people | TheHill - The Hill",
+      "description": "Former President Trump has fallen off Forbes's list of America’s ...",
+      "url": "https://thehill.com/policy/finance/575318-trump-falls-off-forbes-list-of-americas-richest-people",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/trumpdonald_022821upi_lead.jpg",
+      "publishedAt": "2021-10-05T14:40:43Z",
+      "content": "Former President TrumpDonald TrumpTop US and Israeli security officials to discuss Iran, Palestinians in WashingtonState AG seeks meeting with TikTok CEO over 'Slap a Teacher' challengeOn The Money P… [+1315 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Rolling Stone" },
+      "author": "Althea Legaspi",
+      "title": "Adele Is Officially Back With an ‘Easy on Me’ Teaser - Rolling Stone",
+      "description": "Singer appears to hint at first single from follow-up album to 25",
+      "url": "https://www.rollingstone.com/music/music-news/adele-easy-on-me-song-teaser-1237221/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/10/Adele.jpg",
+      "publishedAt": "2021-10-05T14:25:08Z",
+      "content": "Adele is officially back with a teaser for what looks to be her first single from her next album. The singer dropped the teaser on Instagram with a caption that reads “Easy on Me – October 15.”\r\nIn t… [+1337 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Live Science" },
+      "author": "Laura Geggel",
+      "title": "Hundreds of three-eyed 'dinosaur shrimp' emerge after Arizona monsoon - Livescience.com",
+      "description": "Their eggs can stay dormant for decades, waiting for water.",
+      "url": "https://www.livescience.com/dinosaur-shrimp-emerge-arizona",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zHmUvUre72ECbRSboWsGK3-1200-80.jpg",
+      "publishedAt": "2021-10-05T14:13:37Z",
+      "content": "Following a torrential summer downpour in northern Arizona, hundreds of bizarre, prehistoric-looking critters emerged from tiny eggs and began swimming around a temporary lake on the desert landscape… [+5579 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Daniel Howley",
+      "title": "Facebook outage: Why the world’s largest social network was down for 6 hours - Yahoo Finance",
+      "description": "Facebook’s week went from bad to worse Monday when the social networking giant’s apps went dark for users around the world for roughly six hours.",
+      "url": "https://finance.yahoo.com/news/facebook-outage-why-worlds-largest-social-network-was-down-for-6-hours-140206622.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/euq6pUVRvb41o9Iq0IfL6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/4de0b6f0-25df-11ec-b0f9-b15e178b5fa7",
+      "publishedAt": "2021-10-05T14:02:06Z",
+      "content": "Facebooks (FB) week went from bad to worse Monday when the social networking giants apps went dark worldwide for roughly six hours. In a post written Monday afternoon, Facebook VP of infrastructure S… [+3336 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Samantha Subin",
+      "title": "Watch as Facebook whistleblower Frances Haugen testifies before the Senate - CNBC",
+      "description": "The whistleblower who leaked internal Facebook research to Congress and The Wall Street Journal will testify before the Senate Tuesday.",
+      "url": "https://www.cnbc.com/2021/10/05/watch-facebook-whistleblower-frances-haugens-senate-testimony.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106952452-1633441995100-gettyimages-1235709440-fb_whistleblower003_100521.jpeg?v=1633442047",
+      "publishedAt": "2021-10-05T13:44:30Z",
+      "content": "Facebook whistleblower Frances Haugen, who leaked internal company investigations to both The Wall Street Journal and U.S. Congress, will testify before a Senate subcommittee Tuesday.\r\nRecent investi… [+620 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": null,
+      "title": "Winning Powerball ticket sold in California - NPR",
+      "description": "After 40 drawings without a winner, a single ticket sold at a California grocery store matched all six numbers. The winning jackpot was the seventh-largest in U.S. lottery history.",
+      "url": "https://www.npr.org/2021/10/05/1043315272/powerball-winner-million-jackpot",
+      "urlToImage": "https://media.npr.org/assets/img/2021/10/05/ap21273502855686_wide-14ca7fcb3a90ba4014c38bea8580c3022849db33.jpg?s=1400",
+      "publishedAt": "2021-10-05T13:43:05Z",
+      "content": "The Powerball jackpot climbed to $699.8 million the seventh-largest in U.S. lottery history. No one had won the game's grand prize since June 5.\r\nCharlie Neibergall/AP\r\nDES MOINES, Iowa After 40 draw… [+1874 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "NFL Nation",
+      "title": "NFL Power Rankings Week 5: 1-32 poll, plus the biggest surprise for every team - ESPN",
+      "description": "Trevon Diggs is picking off everything in sight, Lamar Jackson's passing is continuing to improve and Cooper Kupp has turned into an elite wideout.",
+      "url": "https://www.espn.com/nfl/story/_/page/NFLpowerranking1005/nfl-power-rankings-week-5-1-32-poll-plus-biggest-surprise-every-team",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1004%2Fnfl_power_wk4_cr_16x9.jpg",
+      "publishedAt": "2021-10-05T13:22:42Z",
+      "content": "While we're not at the one-quarter mark of the season yet (thanks to the new 17-game schedule), the NFL Power Rankings thought this week was the perfect time to discuss each team's biggest surprises … [+24097 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Root" },
+      "author": "Terrell Jermaine Starr",
+      "title": "Henrietta Lacks' Estate Sues Company It Says Profits From Her Cells - The Root",
+      "description": "Lacks' family is suing Thermo Fisher Scientific, Inc. for profiting off her cells without her consent.",
+      "url": "https://www.theroot.com/henrietta-lacks-estate-sues-company-it-says-profits-fro-1847799698",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e73860eaa3368fd85a7cd13b752ffc55.jpg",
+      "publishedAt": "2021-10-05T13:18:00Z",
+      "content": "On Monday, Henrietta Lacks estate sued a biotechnology company over allegations that it is selling cells that physicians at Johns Hopkins Hospital took from the Black woman in 1951 without her knowle… [+4650 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Patrick Ryan, USA TODAY",
+      "title": "'I didn't feel I could do it anymore': Daniel Craig on why he almost quit Bond before 'No Time to Die' - USA TODAY",
+      "description": "Daniel Craig will miss the free martinis, but not the physical toll of playing James Bond after 'No Time to Die,' his swan song in the 007 role.",
+      "url": "https://www.usatoday.com/story/entertainment/movies/2021/10/05/daniel-craig-no-time-to-die-james-bond-007/5986407001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/10/04/USAT/5483d345-0da3-454f-b71f-c3150ba432bd-bond-25-B25_05907_RC_091520_rgb.jpg?auto=webp&crop=4499,2531,x1,y183&format=pjpg&width=1200",
+      "publishedAt": "2021-10-05T13:01:09Z",
+      "content": "There are many things Daniel Craig is going to miss about playing James Bond. For one, the strangers at restaurants who send him over free martinis. \r\nThat has happened \"plenty of times, usually at a… [+4584 chars]"
+    }
+  ]
+}

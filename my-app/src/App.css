@@ -1,0 +1,29 @@
+.main-container{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+   
+}
+
+.nav-item:hover{
+    text-decoration:underline;
+}
+
+.image-container{
+    
+    margin:100px auto;
+    height:20vw;
+    z-index:100;
+    width:30%;
+    background-image:url("./News-Image.png");
+    background-size:100% 100%;
+    
+
+}
+
+span{
+  color:green;
+  font-size:25px;
+}
+
+
