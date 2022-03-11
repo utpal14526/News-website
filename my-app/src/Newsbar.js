@@ -25,6 +25,7 @@ export default class Newsbar extends Component {
         })
         console.log(e.target.value);
     }
+    
     handleClick= async (e)=>{
       e.preventDefault();
       let url=`https://newsapi.org/v2/top-headlines?country=in&category=${this.state.name}&apiKey=f9e9b192f93f4fdfacfef25667c77ae5  &pageSize=${this.state.pageSize}   &page=${this.state.page}` ;
